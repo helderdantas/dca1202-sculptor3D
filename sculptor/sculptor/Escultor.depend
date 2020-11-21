@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605888935 source:c:\users\humberto\desktop\ultimos documentos enviados por helder\novo escultor\escultor\main.cpp
+	<iostream>
+	"sculptor.h"
+
+1605890105 c:\users\humberto\desktop\ultimos documentos enviados por helder\novo escultor\escultor\sculptor.h
+	<iostream>
+	<cstring>
+
+1605887912 source:c:\users\humberto\desktop\ultimos documentos enviados por helder\novo escultor\escultor\sculptor.cpp
+	"sculptor.h"
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<fstream>
+	<iomanip>
+	<vector>
+
